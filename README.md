@@ -1,6 +1,6 @@
 - Hi, I’m @erikajulien
 - I’m interested in IT and cybersecurity.
-- I’m currently taking the UCSD Cybersecurity Bootcamp course.
+- I’m currently working as a Field Service Technician at H&R Block.
 - I’m looking to collaborate on various projects to gain more experience.
 - You can reach me at <erika.julien@gmail.com>.
 
